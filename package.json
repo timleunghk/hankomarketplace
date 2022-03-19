@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "moralis-admin-cli": "^2.1.16"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
